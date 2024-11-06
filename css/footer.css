@@ -11,3 +11,14 @@ footer{
 width: 100%;
 } 
 
+/* ====================Responsividade 1024px============ */ 
+
+
+@media (max-width:1024px) {
+    .footer{
+        width: 100%;
+        
+        
+    }
+    
+}

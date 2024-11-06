@@ -47,3 +47,24 @@ main{
         width: 90%;
     }
 } 
+/* ===================================================1024px=================================================================================================== */
+@media (max-width: 1024px) {
+    main{
+        width: 100%; 
+        padding: 5rem;
+    }
+    .conteudo{
+        margin: 2rem 2rem;
+        height: 100%;
+    }
+
+    .conteudo img{
+        height: 10%;
+        width: 90%;
+        
+    }
+
+    .conteudo p{
+        font-size: 2rem;
+    }
+}
